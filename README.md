@@ -14,6 +14,6 @@ By default, properties are sorted alphabetically. If you want to sort them anoth
 
 ```js
 var sort = require('postcss-sort')(sortingFunction);
-``
+```
 
 [PostCSS]:      https://github.com/postcss/postcss
