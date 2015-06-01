@@ -2,11 +2,11 @@
   "name": "postcss-sort",
   "version": "0.0.1",
   "description": "PostCSS plugin for sorting properties",
+  "keywords": ["postcss", "css", "postcss-plugin", "sort"],
   "main": "index.js",
   "author": "Daniel Hägglund",
   "license": "MIT",
   "dependencies": {
     "postcss": "^4.1.11"
-  },
-  "keywords": ["postcss", "css", "postcss-plugin", "sort"],
+  }
 }
